@@ -1,3 +1,4 @@
 # hollo-world
 My first code.
-I want to learn python well.
+我想很好地学习python。
+学习GitHub的使用。
